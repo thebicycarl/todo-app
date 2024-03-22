@@ -82,7 +82,7 @@ main {
 }
 
 .todoItem p {
-    flex: 1;
+    flex: 1.0;
 }
 
 .actionsContainer {
