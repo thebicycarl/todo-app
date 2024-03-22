@@ -1,1 +1,1 @@
-// Script file
+// main js file
